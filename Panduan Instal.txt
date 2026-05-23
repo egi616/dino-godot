@@ -1,0 +1,11 @@
+Pengumpulan Product Tugas Multimedia 
+
+Panduan untuk menginstal dan memainkan game
+	-Download folder "dino.instal"
+	-Jalankan dino.exe pastikan di jalankan di dalam folder dengan file dino.pct 
+
+Panduan dalam bermain game 
+	-Klik space untuk melompat
+	-Klik arah bawah untuk menunduk
+
+Segala sesuatu yang berhubungan dengan perancangan game seperti script, desain dan lain sebagai nya di taruh di folder "dino".
